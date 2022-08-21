@@ -1,2 +1,2 @@
-# images
-save images
+# storage
+storage
